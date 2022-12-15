@@ -1,0 +1,24 @@
+1. The momentum factor from Ken French’s website (monthly).
+https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html (under "Momentum Factor (Mom)")
+
+2. The 1, 5, and 10-year constant maturity series from FRED.
+- Didn't get the Inflation-Indexed ones (not sure why we'd need to)
+https://fred.stlouisfed.org/categories/115
+
+3. The AAA and BAA (Moody’s) from FRED.
+https://fred.stlouisfed.org/series/AAA
+https://fred.stlouisfed.org/series/BAA
+
+4. The monthly returns on the VWM from Ken French’s site.
+https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html (under "Fama/French 3 Factors")
+
+5. Monthly data on core CPI from FRED.
+Chose the first one ("Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average", seasonally adjusted)
+https://fred.stlouisfed.org/tags/series?t=core%3Bcpi
+
+6. Monthly data in the unemployment rate from FRED.
+Used the seasonally-adjusted number
+https://fred.stlouisfed.org/series/UNRATE
+
+7. Monthly data on Industrial Productivity from FRED.
+https://fred.stlouisfed.org/series/INDPRO

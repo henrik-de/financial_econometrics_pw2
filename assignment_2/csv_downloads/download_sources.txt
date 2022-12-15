@@ -1,0 +1,23 @@
+
+1. Factor returns on the Value and Momentum portfolios from Ken French’s site
+
+
+
+2. The 6 Portfolios Formed on Size and Momentum
+
+
+
+3. The 6 Portfolios Formed on Size and Value
+4. The 17 Industry Portfolios
+
+
+
+
+My task is "The Value return is constructed from the 6 Size-Value portfolios as HML = 1/2(SV + BV ) − 1/2(SG + BG) where S is for small, B is for big, V is for value, and G is for growth." How am I supposed to this calculation from the "6 Size-Value portfolios" file. This file contains the table "Average Value Weighted Returns -- Monthly" with the columns "	SMALL LoBM	ME1 BM2	SMALL HiBM	BIG LoBM	ME2 BM2	BIG HiBM".
+
+
+
+I downloaded a file called "6 Portfolios Formed on Size and Book-to-Market (2 x 3)". What do the columns "SMALL LoBM	ME1 BM2	SMALL HiBM	BIG LoBM	ME2 BM2	BIG HiBM" mean?
+
+
+Regarding my previous question: My task is "The Value return is constructed from the 6 Size-Value portfolios as HML = 1/2(SV + BV ) − 1/2(SG + BG) where S is for small, B is for big, V is for value, and G is for growth." How am I supposed to this calculation from the "6 Size-Value portfolios" file. This file contains tables such as "Average Value Weighted Returns -- Monthly". Isn't it a problem that the returns are value weighted?
