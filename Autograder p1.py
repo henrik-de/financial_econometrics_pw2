@@ -9,7 +9,7 @@ def oos_rsquared(y, yhat, mu):
     y = pd.Series(y)
     yhat = pd.Series(yhat)
     
-    sse = np.sum((yhat-y)**2)
+    sse = np.sum((y-yhat)**2)
     sst = np.sum((y-mu)**2)
 
     r2 = 1 - sse/sst
